@@ -1,4 +1,4 @@
-# Level-1 / General Coding
+# Level-1 / General Coding Discussion
 
 1. What is coding?
   1. Coding is the process of taking a set of instructions and converting them into something a computer can understand.
